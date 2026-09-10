@@ -7,3 +7,4 @@ pyjwt>=2.9.0
 python-multipart>=0.0.9
 supabase>=2.8.0
 pytest>=8.0.0
+a2wsgi>=1.10.10
